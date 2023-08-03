@@ -1,9 +1,7 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1> Movie App </h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project Contains Responsive Icons Navbar, Search Bar, Responsive Home Section, Popular Movies Section With Slider Contains Slide Buttons, Movies And Tv Shows Section, Movie Play Page With Cast And Movies Download Links. You Can Play Movie By Clicking Play Button.
 <br />
 
 
