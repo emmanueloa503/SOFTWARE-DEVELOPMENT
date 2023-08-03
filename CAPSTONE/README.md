@@ -19,7 +19,7 @@ Project is a dynamic website that consists of a set of pages, the content of whi
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EN1bWPi" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
