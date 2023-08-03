@@ -1,7 +1,5 @@
 <h1> LOGIN </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project consists of creating a sign up and sign in form using HTML CSS and JavaScript when we will click on sign in button this form will convert into sign in form and when we will click on signup button it will convert into signup form with beautiful transition effect.
 <br />
@@ -9,12 +7,13 @@ Project consists of creating a sign up and sign in form using HTML CSS and JavaS
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>HTML</b> 
+- <b>CSS</b>
+- <b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
