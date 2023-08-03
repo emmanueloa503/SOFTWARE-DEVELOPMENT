@@ -16,7 +16,7 @@ In this To Do list we can add our task list and mark that task as completed or i
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
