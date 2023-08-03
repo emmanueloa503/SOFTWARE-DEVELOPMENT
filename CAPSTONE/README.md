@@ -15,12 +15,14 @@ Project is a dynamic website that consists of a set of pages, the content of whi
 
 - <b>Windows</b> 
 
+<!--
 <h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://imgur.com/EN1bWPi" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+-->
 </p>
 
 <!--
