@@ -13,7 +13,7 @@ Project is a dynamic website that consists of a set of pages, the content of whi
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Windows</b> 
 
 <h2>Program walk-through:</h2>
 
