@@ -15,7 +15,7 @@ Project consists of designing a digital clock using CSS, HTML, and Javascript. T
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
