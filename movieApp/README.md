@@ -15,7 +15,7 @@ Project Contains Responsive Icons Navbar, Search Bar, Responsive Home Section, P
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
