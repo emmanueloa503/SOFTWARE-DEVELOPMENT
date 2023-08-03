@@ -17,7 +17,7 @@ Project consists of creating a contact form with the help of HTML and CSS, then 
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
