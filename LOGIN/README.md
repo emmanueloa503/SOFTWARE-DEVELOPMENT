@@ -14,13 +14,14 @@ Project consists of creating a sign up and sign in form using HTML CSS and JavaS
 <h2>Environments Used </h2>
 
 - <b>Windows</b> 
-
+<!--
 <h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://imgur.com/IGJRufD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+-->
 </p>
 
 <!--
