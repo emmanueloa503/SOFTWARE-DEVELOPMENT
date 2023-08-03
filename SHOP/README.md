@@ -13,7 +13,7 @@ Project consists of BUILDING AND DEPLOYING FULL RESPONSIVE ECOMMERCE WEBSITE. Wi
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
