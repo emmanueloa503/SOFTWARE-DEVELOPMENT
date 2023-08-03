@@ -16,12 +16,14 @@ In this To Do list we can add our task list and mark that task as completed or i
 
 - <b>Windows</b> 
 
+<!--
 <h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+-->
 </p>
 
 <!--
