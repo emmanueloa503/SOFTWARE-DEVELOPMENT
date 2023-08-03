@@ -17,7 +17,7 @@ Project consists of designing a digital clock using CSS, HTML, and Javascript. T
 
 - <b>Windows</b> 
 
-<h2>Program walk-through:</h2>
+<h2>RESULT</h2>
 
 <p align="center">
 Launch the utility: <br/>
