@@ -13,7 +13,7 @@ Project Contains Responsive Icons Navbar, Search Bar, Responsive Home Section, P
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
+- <b>Windows</b> 
 
 <h2>Program walk-through:</h2>
 
