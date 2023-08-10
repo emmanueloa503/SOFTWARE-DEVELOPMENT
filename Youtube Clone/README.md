@@ -3,18 +3,20 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of website design inspired by YouTube. We will create 2 pages, First page of this website will be home page with a left sidebar, one banner and list of videos with thumbnail, videos title and channel info, then we will create 2nd page of this website that is video watch page. on this page we will add a video and video information, channel information, list of comments and we will make sidebar with list of suggested videos. This page is also responsive for small screen devices. We will complete website design using HTML, CSS and very small JavaScript. 
+
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>HTML</b> 
+- <b>CSS</b>
+- <b>JavaScript</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
